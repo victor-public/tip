@@ -16,6 +16,11 @@ pagination:
     <span class="text-base sm:text-2xl font-normal"> &middot; {{ post.templateContent | readTime }} min read</span>
   </p>
   <em>{{ post.date | date: "%Y-%m-%d" }}</em>
+  
+  {% if post.data.cover != "" %}
+    <img class="my-4" src="assets/img/posts/{{ post.data.cover }}" alt="{{ post data.title }}" />
+  {% endif %}
+  
   <p class="mt-4">{{ post.data.post_excerpt }}...</p>
   
   <div class="flex justify-between items-center mt-4">

@@ -1,7 +1,8 @@
 ---
 title: Kotlin
 date: 2020-07-01
-# published: false
+published: true
+cover: mailbox.jpg
 tags:
 - kotlin
 - android

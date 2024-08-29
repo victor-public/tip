@@ -1,6 +1,8 @@
 ---
 title: Flutter
 date: 2020-07-01
+published: true
+cover: ""
 tags:
 - android
 - flutter

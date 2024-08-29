@@ -12,6 +12,7 @@ cat <<EOF > $FILENAME
 ---
 title: "$TITLE"
 date: "$(date '+%Y-%m-%d')"
+published: false
 tags:
 -
 ---
