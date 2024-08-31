@@ -2,9 +2,15 @@
 layout: main
 ---
 
-<p class="text-5xl md:text-6xl font-black py-10 md:py-20 leading-tight">
- {{ title }}
-</p>
+<img
+    class="py-10 md:hidden"
+    src="assets/img/favicon/favicon-32x32.png" alt="Today I painted!"
+/>
+
+<img
+    class="py-10 hidden md:block md:py-20"
+    src="assets/img/favicon/favicon-64x64.png" alt="Today I painted!"
+/>
   
 {% include "nav.liquid" %}
 
