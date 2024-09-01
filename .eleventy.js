@@ -2,6 +2,8 @@ const syntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight")
 const markdownIt = require("markdown-it")
 const markdownItAnchor = require("markdown-it-anchor")
 
+const { EleventyRenderPlugin } = require("@11ty/eleventy");
+
 module.exports = function(eleventyConfig) {
   // Plugins
   eleventyConfig.addPlugin(syntaxHighlight)
@@ -14,8 +16,11 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("src/manifest.json")
   eleventyConfig.addPassthroughCopy({
     "humans.txt": "/humans.txt",
-    "robots.txt": "/robots.txt"
+    "robots.txt": "/robots.txt",
+    "license.md": "LICENSE.md"
   });
+
+  eleventyConfig.addPlugin(EleventyRenderPlugin);
 
   // To create excerpts
   eleventyConfig.setFrontMatterParsingOptions({
