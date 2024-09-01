@@ -1,18 +1,25 @@
 <footer class="mt-8 bg-gray-200 py-8 flex-shrink-0">
   <div class="max-w-screen-sm md:max-w-screen-md mx-auto px-8">
-    <p class="text-sm py-2 text-right">
+    <p class="flex text-sm py-2 text-left">
+      <a class="flex-1" href="/humans.txt">
+        <span class="text-red-500">&hearts;</span>
+        Thanks!
+      </a>
+      {% if site.instagram != "" %}
+        <a class="mx-2" target="__blank" rel="noopener noreferer" href={{ site.instagram }}>Instagram</a> 
+      {% endif %}
+
       {% if site.github != "" %}
-        <a href={{ site.github }}>Github</a> 
+        &middot; <a class="mx-2" target="__blank" rel="noopener noreferer" href={{ site.github }}>Github</a> 
       {% endif %}
 
       {% if site.linkedin != "" %}
-        &middot; <a href={{ site.linkedin }}>LinkedIn</a>
+        &middot; <a target="__blank" rel="noopener noreferer" class="mx-2" href={{ site.linkedin }}>LinkedIn</a>
       {% endif %}
 
       {% if site.twitter != "" %}
-        &middot; <a href={{ site.twitter }}>Twitter</a>
+        &middot; <a target="__blank" rel="noopener noreferer" class="mx-2" href={{ site.twitter }}>Twitter</a>
       {% endif %}
-
     </p>
   </div>
 </footer>

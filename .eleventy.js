@@ -28,6 +28,12 @@ module.exports = function(eleventyConfig) {
     return Math.max(1, Math.floor(textOnly.length / readingSpeedPerMin))
   })
 
+  // Put robots.txt in root
+  eleventyConfig.addPassthroughCopy({ 
+    "humans.txt": "/humans.txt",
+    "robots.txt": "/robots.txt" 
+  });
+
   // Enable us to iterate over all the tags, excluding posts and all
   eleventyConfig.addCollection('tagList', collection => {
     const tagsSet = new Set()
