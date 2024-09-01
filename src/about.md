@@ -24,6 +24,4 @@ In short, there are two parts to be covered under different licenses:
 
 > Blog contents: <a href="https://creativecommons.org/licenses/by-nc/4.0/deed.en">CC BY-NC 4.0</a> 
 
-> Blog code: <a href="https://opensource.org/license/mit">MIT License</a>
-
 Watch out the <a href="/license"> license page</a> for further info.
