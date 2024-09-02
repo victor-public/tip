@@ -17,8 +17,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy({
     "humans.txt": "/humans.txt",
     "robots.txt": "/robots.txt",
-    "license.md": "LICENSE.md"
-  });
+  })
 
   eleventyConfig.addPlugin(EleventyRenderPlugin);
 
