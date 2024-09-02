@@ -5,23 +5,45 @@ title: This is me.
 
 ## Who Am I? What do I do?
 
-Yay! I'm painting!
+I'm __Víctor Santiago__ and I'm painting!
 
-A 2024's new year resolution, I started doddling on January, charcoal, colour pencils... Eventually, I discover I love it. I
-got a bit deeper into it: oils, pastells, watching tons of youtube's art. But, then, stagnation. I started to feel 
-I needed a boost, motivation. Then I read about an [internet trend](https://www.swyx.io/learn-in-public) and I wonder...
+A 2024's new year resolution, I started doddling on January. Charcoal, colour pencils, pastells, canvases, oil and turpentine became my treats.... And YouTube, lots of arty videos. I love it!
 
->> Ey, that smells like the good old internet (please: _don't like, do not subscribe_) when things were done for the shake of it. It could be _my_ thing too. A little extra motivation.
+Then, stagnation. I started to feel I needed a boost, motivation. Then I read about the [next-big-idea](https://www.swyx.io/learn-in-public) on the internet, and I wonder...
 
-So, that's the thing: here I am, __learning to paint in public__ I'll be publishing my draws here, from the most 
-horrible attempts to do something nice, to the spare piece I feel satisfied with. From Bluebell to the world!
+<br>
 
-And now... a little bit of the boring stuff:
+>> Ey! that smells like the good old internet (please: _don't like, do not subscribe_) when things were done for the shake of it. <br> <br> It could be _my_ thing too. A little extra motivation.
+
+<br>
+
+So, that's it: here I am, __learning to paint in public__ I'll be publishing my draws here, from the most 
+horrible attempts to do something nice, to the spare piece I feel satisfied with. 
+
+From Bluebell to the world! With love.
+
+And now... the boring stuff:
 
 ## License
 
-In short, there are two parts to be covered under different licenses:
+This site's contents are published under the [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.en) license. Long story short, you can:
 
-> Blog contents: <a href="https://creativecommons.org/licenses/by-nc/4.0/deed.en">CC BY-NC 4.0</a> 
+<div class="flex rounded-md bg-gray-200 p-3 items-center text-tight my-8">
+    <img class="h-10 w-10 mx-6" src="/assets/img/cc-nc.png" alt="attribution">
+    <p class="flex-1 text-black text-left px-3">
+    <strong>Attribution</strong>
+    <br>
+    You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+    </p>
+</div>
 
-Watch out the <a href="/license"> license page</a> for further info.
+<div class="flex rounded-md bg-gray-200 p-3 items-center text-tight my-8">
+    <img class="h-10 w-10 mx-6" src="/assets/img/cc-by.png" alt="attribution">
+    <p class="flex-1 text-black text-left px-3">
+    <strong>Non-commercial</strong>
+    <br>
+    You may not use the material for commercial purposes. 
+    </p>
+</div>
+
+Please, visit the [full-license page](https://creativecommons.org/licenses/by-nc/4.0/deed.en) for further info.
