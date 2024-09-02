@@ -1,25 +1,3 @@
-# Introduction
-
-This project consist of two parts: the "blog contents", and "the software" that 
-supports the user interface. Both are distributed under their respective licenses:
-
-<br>
-
-## Blog contents (CC BY-NC 4.0)
-
-All blog contents (what you see under the main URL) are licensed under
-[CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). 
-
-In short, this license allows you to _share_ and _adapt_ provided you give appropiate 
-credit. The attribution requirement is only met when:
-
-1. The canonical link is directed towards the original article, e.g.
-   `<link rel="canonical" href="[POST-URL]" />`
-2. The following message is displayed above and below the article:
-   `This article has been originally published on <a href="[BLOG-URL]">TIP website</a>.`
-
-<br>
-
 ## The Software (MIT License)
 
 Permission is hereby granted, free of charge, to any person obtaining
