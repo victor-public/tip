@@ -13,7 +13,7 @@ Then, stagnation. I started to feel I needed a boost, motivation. Then I read ab
 
 <br>
 
->> Ey! that smells like the good old internet (please: _don't like, do not subscribe_) when things were done for the shake of it. <br> <br> It could be _my_ thing too. A little extra motivation.
+>> Ey! that smells like the good old internet (please: _don't like, do not subscribe_) when things were done for the sake of it. <br> <br> It could be _my_ thing too. A little extra motivation.
 
 <br>
 
