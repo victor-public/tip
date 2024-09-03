@@ -29,7 +29,7 @@ And now... the boring stuff:
 This site's contents are published under the [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.en) license. Long story short, you can:
 
 <div class="flex rounded-md bg-gray-200 p-3 items-center text-tight my-8">
-    <img class="h-10 w-10 mx-6" src="/assets/img/cc-nc.png" alt="attribution">
+    <img class="h-10 w-10 mx-6" src="/assets/img/cc-by.png" alt="Attribution">
     <p class="flex-1 text-black text-left px-3">
     <strong>Attribution</strong>
     <br>
@@ -38,7 +38,7 @@ This site's contents are published under the [CC BY-NC 4.0](https://creativecomm
 </div>
 
 <div class="flex rounded-md bg-gray-200 p-3 items-center text-tight my-8">
-    <img class="h-10 w-10 mx-6" src="/assets/img/cc-by.png" alt="attribution">
+    <img class="h-10 w-10 mx-6" src="/assets/img/cc-nc.png" alt="Non-commercialn">
     <p class="flex-1 text-black text-left px-3">
     <strong>Non-commercial</strong>
     <br>
