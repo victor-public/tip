@@ -4,7 +4,7 @@ date: "2024-09-01"
 published: true
 cover: 09_six-plus-four.jpg
 tags:
-- doodle
+- Doodle
 ---
 
 6 + 4 == simplest portrait ever!!
