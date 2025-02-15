@@ -27,7 +27,7 @@ By far, my best discover of the trip. The place totally exceeded my (rather low)
 
 Despite I think Saltillo needs a decent public transport system (and it needs it fast!) it has lots to offer. Don't let locals confuse you when they call it "Salti-ranch", it is totally a city. But one that still feels cozy and warm. 
 
-You can shoot here, eat great tacos at "Los pioneros", discover real burritos, bowling, drink, _huevonear_ at "Plaza de los huevones",looking through de _water eye_... Overall, it reminds me my childhood at Alcorcón, that was very nice.
+You can shoot air-rifles (while drinking beer!) here, eat great tacos at "Los pioneros", discover real burritos, bowling, drink, _huevonear_ at "Plaza de los huevones",looking through de _water eye_... Overall, it reminds me my childhood at Alcorcón, that was very nice.
 
 Do yourself a favour and give Saltillo a chance!
 
