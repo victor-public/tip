@@ -49,7 +49,7 @@ Drawn at the Flor y Canela entrance. I did my best, be lenient!
 
 ## OXXO: a la vuelta de tu vida.
 
-It's everywhere. Mexicans love it. And we discover there is actually two types of [OXXO's](https://en.wikipedia.org/wiki/Oxxo):
+It's everywhere. Mexicans love it. And we discover there are actually two types of [OXXO's](https://en.wikipedia.org/wiki/Oxxo):
 
 <figure class="text-center flex justify-center flex-col">
 <img src="/assets/img/posts/25_02_oxxo.jpg" alt="Saltillo landscape" />
