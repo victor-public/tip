@@ -2,7 +2,7 @@
 title: "Mexico lindo"
 date: "2025-02-15"
 published: true
-cover: 25_02_oxo-mini.jpg
+cover: 25_02_oxxo-mini.jpg
 tags:
 - mexico
 - saltillo
