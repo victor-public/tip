@@ -15,12 +15,9 @@ A few things I draw in Madrid: the city of cats.
 
 <figure class="text-center w-full flex justify-center flex-col">
     <img src="/assets/img/posts/25_05_facultad.jpg" alt="UCM Mathematics college" />
-    <caption>
-        UCM Mathematical sciences college
+    <caption>Believe it or not... Last time I entered this door, it took me almost a decade to exit back. Beware of maths, folks. They are kind of addictive. You'd better follow your passion for arts!
     </caption>
 </figure>
-
-foo
 
 <figure class="text-center w-full flex justify-center flex-col">
     <img src="/assets/img/posts/25_05_gato.jpg" alt="UCM Mathematics college" />
