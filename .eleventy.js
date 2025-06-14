@@ -4,6 +4,10 @@ const markdownItAnchor = require("markdown-it-anchor")
 
 const { EleventyRenderPlugin } = require("@11ty/eleventy");
 
+const {
+  PATH_PREFIX = ""
+} = process.env
+
 module.exports = function(eleventyConfig) {
   // Plugins
   eleventyConfig.addPlugin(syntaxHighlight)
@@ -64,8 +68,9 @@ module.exports = function(eleventyConfig) {
   })
 
   return {
+    pathPrefix: PATH_PREFIX || "",
     dir: {
-      input: "src"
+      input: "./src"
     }
   }
 }
