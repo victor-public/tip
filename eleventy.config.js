@@ -42,7 +42,8 @@ export default function (eleventyConfig) {
         fs.writeFileSync(tailwindOutputPath, result.css)
     })
 
-    eleventyConfig.addPassthroughCopy("src/assets/*")
+    eleventyConfig.addPassthroughCopy("src/assets/styles")
+    eleventyConfig.addPassthroughCopy("src/assets/img")
     eleventyConfig.addPassthroughCopy("src/manifest.json")
     eleventyConfig.addPassthroughCopy({
         "humans.txt": "/humans.txt",
