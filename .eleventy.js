@@ -12,6 +12,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.setDataDeepMerge(true)
 
   // Copy these static files to _site folder
+  eleventyConfig.addPassthroughCopy("src/assets")
   eleventyConfig.addPassthroughCopy("src/manifest.json")
   eleventyConfig.addPassthroughCopy({
     "humans.txt": "/humans.txt",
