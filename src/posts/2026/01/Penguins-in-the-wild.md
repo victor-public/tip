@@ -1,5 +1,5 @@
 ---
-title: "I got fucked by a fish!"
+title: "Penguins in the wild..."
 date: "2026-01-04"
 published: true
 cover: 26_01_cover.jpg
